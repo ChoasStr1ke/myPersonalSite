@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Mohamed Yusuf'
+theme = 'PaperMod'
+
+[menu]
+[[menu.main]]
+  name = 'Web Dev'
+  pageRef = '/dev'
+  weight = 20
+[[menu.main]]
+  name = 'Typology'
+  pageRef = '/type'
+  weight = 30
